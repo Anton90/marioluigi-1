@@ -1,0 +1,27 @@
+.menu {
+    background-color: #BE4729;
+    color: white;
+}
+
+.menu h2 {
+    font-family: "Cabin Sketch", cursive;
+    font-size: 60px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.menu h3 {
+    font-family: "Catamaran", sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.menu ul {
+    font-family: "Catamaran", sans-serif;
+    font-size: 16px;
+    list-style:none;
+    padding:0;
+    line-height: 36px; 
+}
