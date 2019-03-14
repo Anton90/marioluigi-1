@@ -25,3 +25,21 @@
     padding:0;
     line-height: 36px; 
 }
+
+.download a {
+    padding: 10px 20px 10px 20px;
+    border: 1px solid white;
+    border-radius: 30px;
+    text-decoration:none;
+    color:white;
+    font-family: "Catamaran", sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+
+}
+
+.download a:hover {
+    background-color:white;
+    color: #BE4729;
+}
